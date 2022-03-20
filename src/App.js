@@ -1,6 +1,5 @@
 import { Input, Radio, Rate } from 'antd';
 import {
-    BrowserRouter as Router,
     Routes,
     Route,
     Link,
