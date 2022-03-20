@@ -11,7 +11,7 @@ import './App.css';
 function Home() {
     return (
         <div>
-            <h2>Home</h2>
+            <h2>主页</h2>
             <h2>lalala</h2>
 
             <Rate allowHalf defaultValue={2.5} />
